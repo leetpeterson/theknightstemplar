@@ -82,8 +82,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #b30000 url("images/bg03.jpg");
-		color: #474f51;
+		background: #ff0000 url("images/bg03.jpg");
+		color: #000000;
 		font-size: 13.5pt;
 		font-family: 'Yanone Kaffeesatz';
 		line-height: 1.85em;
@@ -1530,7 +1530,7 @@ input, select, textarea {
 		}
 
 			#header h1 a {
-				color: #b30000;
+				color: #ff0000;
 				text-decoration: none;
 			}
 
@@ -1619,7 +1619,7 @@ input, select, textarea {
 
 		#content h2 {
 			font-size: 1.8em;
-			color: #373f42;
+			color: #000000;
 			margin: 0 0 0.25em 0;
 		}
 
@@ -1685,16 +1685,16 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		border-top: solid 1px #b5bec3;
-		box-shadow: inset 0px 1px 0px 0px #e0e4e7;
+		border-top: solid 1px #000000;
+		box-shadow: inset 0px 1px 0px 0px #000000;
 		text-align: center;
 		padding: 45px 0 80px 0;
-		color: #8d9ca3;
+		color: #000000;
 		text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.5);
 	}
 
 		#copyright a {
-			color: #8d9ca3;
+			color: #000000;
 		}
 
 /* Large */
